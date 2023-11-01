@@ -1,0 +1,9 @@
+mysql:
+  dns: root:123456@tcp(127.0.0.1:3306)/goim?charset=utf8mb4&parseTime=True&loc=Local
+
+# redis:
+#   host: 127.0.0.1
+#   port: 6379
+#   password: ""
+#   db: 0
+#   pool_size: 100
